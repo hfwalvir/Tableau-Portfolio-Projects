@@ -10,7 +10,7 @@ Explore my Tableau Visualization Portfolio: Haya Fayaz's Tableau Public Profile 
 
 **Featured Projects:**
 
-Airbnb Data Analysis: An in-depth project leveraging Airbnb data to uncover rental trends, pricing strategies, and popular destinations.
-Amazon Prime Video Analysis: A detailed dashboard analyzing Amazon Prime Video data, highlighting content performance, viewer preferences, and regional trends.
-European Profit and Sales Dashboard: A comprehensive dashboard showcasing profit and sales metrics across various European countries, providing insights into market performance and growth opportunities.
-And More: My portfolio includes additional projects like these, all aimed at transforming raw data into meaningful, visually compelling insights that support informed decision-making.
+**Airbnb Data Analysis:** An in-depth project leveraging Airbnb data to uncover rental trends, pricing strategies, and popular destinations.
+**Amazon Prime Video Analysis:** A detailed dashboard analyzing Amazon Prime Video data, highlighting content performance, viewer preferences, and regional trends.
+**European Profit and Sales Dashboard:** A comprehensive dashboard showcasing profit and sales metrics across various European countries, providing insights into market performance and growth opportunities.
+**And More:** My portfolio includes additional projects like these, all aimed at transforming raw data into meaningful, visually compelling insights that support informed decision-making.
