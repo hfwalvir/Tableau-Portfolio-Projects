@@ -4,8 +4,7 @@ Passionate About Creating Visualizations: An Absolute Data Visualization Lover!
 
 Certifications Held:
 
-Tableau 10 for Data Scientists
-Fundamentals of Visualization with Tableau
+Tableau 10 for Data Scientists, Fundamentals of Visualization with Tableau
 
 Explore my Tableau Visualization Portfolio: Haya Fayaz's Tableau Public Profile : https://public.tableau.com/app/profile/haya.fayaz/vizzes
 
