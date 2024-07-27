@@ -2,7 +2,7 @@
 
 Passionate About Creating Visualizations: An Absolute Data Visualization Lover!
 
-Certifications Held:
+**Certifications Held:**
 
 Tableau 10 for Data Scientists, Fundamentals of Visualization with Tableau
 
